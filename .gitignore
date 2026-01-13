@@ -31,7 +31,7 @@ Thumbs.db
 *.tmp
 *.bak
 
-# zl-genereated keys to ignore
+# zk-generated keys and files
 insurance_js/
 input.json
 *.zkey
@@ -39,3 +39,6 @@ input.json
 *sym
 *.ptau
 verification_key.json
+
+# libraries
+circom/
