@@ -1,0 +1,41 @@
+# IDE files
+.idea/
+.vscode/
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
+*.bak
+
+# zl-genereated keys to ignore
+insurance_js/
+input.json
+*.zkey
+*.r1cs
+*sym
+*.ptau
+verification_key.json
