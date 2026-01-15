@@ -1,3 +1,12 @@
+// HyperMed Core System
+//   Copyright (C) 2026 HyperMed (Techmac Team).
+//   
+//   I.    NOTICE: Proprietary and Confidential.
+//   II.   RESTRICTION: Unauthorized copying is prohibited.
+//   III.  STATUS: Pre-publication / Internal Development.
+//   
+//   See the LICENSE file for full Terms and Conditions.
+
 pragma circom 2.0.0;
 
 // Import the optimized ZK cryptographic primitives
